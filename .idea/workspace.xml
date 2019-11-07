@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e97ea3e-99ef-4c51-9da4-0d85abef1b47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Proj2_SolarHydro_Team38_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj2_SolarHydro_Team38v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proj2_SolarHydro_Team38v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj2_SolarHydro_Team38.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proj2_SolarHydro_Team38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj2_SolarHydro_Team38v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Proj2_SolarHydro_Team38v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj2_SolarHydro_Team38v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project2Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Project2Data.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +28,7 @@
   <component name="ProjectId" id="1SofxcfZDvN4rAw4FnTfqVP4Enw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Proj2_SolarHydro_Team38_excel.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project 3" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Proj2_SolarHydro_Team38v3">
+  <component name="RunManager" selected="Python.Proj2_SolarHydro_Team38">
     <configuration name="Proj2_SolarHydro_Team38" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proj2_SolarHydro_Team38.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ctvnu\python\Project 2\Proj2_SolarHydro_Team38.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Proj2_SolarHydro_Team38v3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Proj2_SolarHydro_Team38v1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Project 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proj2_SolarHydro_Team38v3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ctvnu\python\Project 2\Proj2_SolarHydro_Team38v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +114,7 @@
     </configuration>
     <list>
       <item itemvalue="Python.Proj2_SolarHydro_Team38" />
-      <item itemvalue="Python.Proj2_SolarHydro_Team38v3" />
+      <item itemvalue="Python.Proj2_SolarHydro_Team38v1" />
       <item itemvalue="Python.Proj2_SolarHydro_Team38_excel" />
     </list>
   </component>
